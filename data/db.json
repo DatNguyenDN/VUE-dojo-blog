@@ -1,0 +1,227 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to the new Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta illo omnis dolorem provident quibusdam nesciunt laboriosam? Id at, enim quo rem cupiditate eligendi omnis, non ipsum blanditiis, dolore eveniet labore!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Understanding JavaScript Closures",
+      "body": "Closures are a fundamental concept in JavaScript that allow functions to access variables from an outer function scope even after the outer function has returned.",
+      "tags": [
+        "javascript",
+        "programming",
+        "concepts"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Top 10 CSS Tips and Tricks",
+      "body": "CSS can be tricky, but with these top 10 tips and tricks, you can make your stylesheets more efficient and your designs more responsive.",
+      "tags": [
+        "css",
+        "webdesign",
+        "tips"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "How to Get Started with React",
+      "body": "React is a popular JavaScript library for building user interfaces. In this post, we'll cover how to get started with React and build your first component.",
+      "tags": [
+        "react",
+        "javascript",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Exploring the New Features in ES2021",
+      "body": "ES2021 introduces several new features to JavaScript, including logical assignment operators, numeric separators, and more. Let's explore what's new!",
+      "tags": [
+        "javascript",
+        "es2021",
+        "features"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "A Guide to Flexbox",
+      "body": "Flexbox is a powerful layout module in CSS3. This guide will help you understand how to use flexbox to create flexible and responsive layouts.",
+      "tags": [
+        "css",
+        "flexbox",
+        "layout"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Building a REST API with Node.js",
+      "body": "Learn how to build a RESTful API using Node.js and Express. This tutorial will walk you through setting up your server, creating endpoints, and handling requests.",
+      "tags": [
+        "nodejs",
+        "api",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Introduction to TypeScript",
+      "body": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. In this post, we'll cover the basics of TypeScript and how to get started.",
+      "tags": [
+        "typescript",
+        "javascript",
+        "introduction"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Deploying Your App with Docker",
+      "body": "Docker simplifies the process of deploying applications by using containerization. Learn how to containerize your app and deploy it using Docker.",
+      "tags": [
+        "docker",
+        "deployment",
+        "containers"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Understanding the Event Loop in JavaScript",
+      "body": "The event loop is a crucial concept for understanding how JavaScript handles asynchronous operations. This post breaks down the event loop and how it works.",
+      "tags": [
+        "javascript",
+        "event loop",
+        "asynchronous"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "CSS Grid: A Comprehensive Guide",
+      "body": "CSS Grid is a powerful tool for creating complex layouts on the web. This comprehensive guide will teach you everything you need to know about CSS Grid.",
+      "tags": [
+        "css",
+        "grid",
+        "layout"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Introduction to Vue.js",
+      "body": "Vue.js is a progressive JavaScript framework for building user interfaces. This post will introduce you to the basics of Vue.js and how to create your first component.",
+      "tags": [
+        "vue",
+        "javascript",
+        "framework"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Building a Full-Stack App with MERN",
+      "body": "The MERN stack (MongoDB, Express, React, Node.js) is a popular choice for building full-stack web applications. Learn how to build a full-stack app using the MERN stack.",
+      "tags": [
+        "mern",
+        "full-stack",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Top 5 JavaScript Testing Frameworks",
+      "body": "Testing is an essential part of software development. Here are the top 5 JavaScript testing frameworks you should know about and how to use them.",
+      "tags": [
+        "javascript",
+        "testing",
+        "frameworks"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Mastering Git and GitHub",
+      "body": "Git is a powerful version control system, and GitHub is a platform for hosting Git repositories. This post will help you master both Git and GitHub.",
+      "tags": [
+        "git",
+        "github",
+        "version control"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "An Introduction to GraphQL",
+      "body": "GraphQL is a query language for APIs that allows clients to request exactly the data they need. Learn the basics of GraphQL and how to build your first API.",
+      "tags": [
+        "graphql",
+        "api",
+        "introduction"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Building Progressive Web Apps",
+      "body": "Progressive Web Apps (PWAs) combine the best of web and mobile apps. This post covers the key concepts of PWAs and how to build your own.",
+      "tags": [
+        "pwa",
+        "web",
+        "mobile"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Understanding Asynchronous JavaScript",
+      "body": "Asynchronous programming is a key part of JavaScript. This post explains the different ways to handle asynchronous code, including callbacks, promises, and async/await.",
+      "tags": [
+        "javascript",
+        "asynchronous",
+        "promises"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Optimizing Web Performance",
+      "body": "Web performance is crucial for user experience. Learn various techniques and tools to optimize the performance of your web applications.",
+      "tags": [
+        "performance",
+        "web",
+        "optimization"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Getting Started with Webpack",
+      "body": "Webpack is a powerful module bundler for JavaScript applications. This post will help you get started with Webpack and configure it for your project.",
+      "tags": [
+        "webpack",
+        "javascript",
+        "build tools"
+      ]
+    },
+    {
+      "id": "4781",
+      "title": "Vue",
+      "content": "Mastery VUE in 1 month",
+      "tags": [
+        "vue",
+        "vue3",
+        "vuejs",
+        "reactive"
+      ]
+    },
+    {
+      "id": "98fa",
+      "title": "VUE",
+      "content": "Mastery Vue in 1 month",
+      "tags": [
+        "vue",
+        "vuejs",
+        "vue3",
+        "reactive",
+        "lavarel"
+      ]
+    }
+  ]
+}
